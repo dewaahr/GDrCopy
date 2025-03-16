@@ -4,7 +4,7 @@ function Get_Drive(){
   copyFolder(sourceDriveID,destinationDriveID)
 }
 
-function copy(sourceFolder, destinationFolder) {
+function copyFolder(sourceFolder, destinationFolder) {
   var files = sourceFolder.getFiles()
   
   while (files.hasNext()) {
