@@ -1,6 +1,6 @@
-# Google Drive Folder File Copy using Google Script
+# Google Drive Folder & File Copy using Google Apps Script
 
-([Google Script](https://script.google.com/))
+**Ganti `SourceDriveID` dan `DestinationDriveID`**  
+     `https://drive.google.com/drive/folders/**DriveID**`
 
-**Ganti `sourceDriveID` dan `destinationDriveID`**.  
-https://drive.google.com/__/**DriveID**.
+**Menyalin semua file & folder** tanpa duplikasi.  
